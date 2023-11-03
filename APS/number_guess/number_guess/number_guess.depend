@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698933473 source:d:\cp\aps\number_guess\number_guess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

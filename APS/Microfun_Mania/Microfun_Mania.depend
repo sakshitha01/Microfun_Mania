@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699031261 source:d:\cp\aps\microfun_mania\main.c
+	<stdio.h>
+	<stdlib.h>
+

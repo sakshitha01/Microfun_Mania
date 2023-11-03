@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698932640 source:d:\cp\aps\shooter\shooter\main.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+
